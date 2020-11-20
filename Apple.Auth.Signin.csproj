@@ -1,7 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Apple.Auth.Signin</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>tanbm.hut@gmail.com</Authors>
+    <Company>https://buminta.com</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
